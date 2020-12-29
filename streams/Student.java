@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Student{
-    String name;
-    double percentage;
+    private String name;
+    private double percentage;
 
     public Student(String name, double percentage){
         this.name=name;

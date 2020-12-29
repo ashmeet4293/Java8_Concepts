@@ -2,7 +2,7 @@ package com.company.practice.predicate;
 
 import java.util.function.Predicate;
 
-/**Program to display names starts with K by using Predicate*/
+/**Program to display names starts with K by using PredicateDemo*/
 public class ProgramToDisplayNameStartsWithKUsingPredicate {
     public static void main(String[] args) {
 

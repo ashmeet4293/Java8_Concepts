@@ -2,7 +2,7 @@ package com.company.practice.predicate;
 
 import java.util.function.Predicate;
 
-/** Program for User Authentication by using Predicate */
+/** Program for User Authentication by using PredicateDemo */
 class User{
     String username;
     String password;

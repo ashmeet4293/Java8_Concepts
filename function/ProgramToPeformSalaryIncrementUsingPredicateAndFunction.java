@@ -6,12 +6,12 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 /**
- * Progarm to perform Salary Increment for Employees by using Predicate  Function
+ * Progarm to perform Salary Increment for Employees by using PredicateDemo  Function
  */
 public class ProgramToPeformSalaryIncrementUsingPredicateAndFunction {
     public static void main(String[] args) {
 
-        /*Predicate To check whether the salary is less than 35000*/
+        /*PredicateDemo To check whether the salary is less than 35000*/
         Predicate<Double> salaryCheckPredicate = (salary) -> salary < 35000;
         Function<Employeee, Employeee> salaryIncrementFunction = (emp) -> {
 

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 
-/**Predicate Example to Remove null values and Empty String from the given List */
+/**PredicateDemo Example to Remove null values and Empty String from the given List */
 public class PredicateToRemoveNullValuesAndEmptyStringFromTheGivenList {
     public static void main(String[] args) {
 
